@@ -1,3 +1,5 @@
+This project demonstrates interprocess communication between Python and C/C++ processes using PIPE.
+
 #1 helloWorld
 hello.py, hello.cpp
 
